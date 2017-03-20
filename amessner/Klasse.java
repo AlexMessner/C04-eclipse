@@ -7,6 +7,8 @@ public class Klasse {
 		System.out.println("Torkamani");
 		System.out.println("Änderung!");
 		System.out.println("Änderung!");
+		System.out.println("Kappa");
+		System.out.println("Kappa");
 	}
 
 }
